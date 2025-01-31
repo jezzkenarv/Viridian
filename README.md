@@ -1,66 +1,137 @@
-## Foundry
+# Viridian Protocol
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+Viridian is a decentralized protocol that transforms environmental stewardship into a quantifiable, tradeable asset class through market-driven mechanisms, built on the Allo Protocol ecosystem.
 
-Foundry consists of:
+## Core Mechanics
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+### 1. Environmental Impact Markets
 
-## Documentation
+The protocol creates liquid markets for environmental assets by:
+- Tokenizing verified ecosystem services and conservation outcomes
+- Implementing specialized bonding curves that price environmental impact
+- Providing automated market making for environmental assets
+- Enabling efficient price discovery for ecological value
 
-https://book.getfoundry.sh/
+### 2. Prediction-Driven Validation
 
-## Usage
+Project outcomes are validated through:
+- Decentralized prediction markets for conservation milestones
+- Stake-weighted voting on environmental claims
+- Evidence-based verification of impact metrics
+- Market-based assessment of project success probability
 
-### Build
+### 3. Retroactive Conservation Funding
 
-```shell
-$ forge build
-```
+The protocol creates sustainable funding through:
+- Integration with Allo Protocol's registry and strategy contracts
+- Trading fee distribution to verified conservation projects
+- Impact-weighted reward allocation via Allo Capital pools
+- Success-based multipliers for proven outcomes
 
-### Test
+## Allo Ecosystem Integration
 
-```shell
-$ forge test
-```
+### Allo Protocol
+- Registry contract integration for project registration
+- Custom funding strategy implementation
+- Metadata schema for environmental impacts
+- Hook system for verification processes
 
-### Format
+### Allo Nets
+- Decentralized verification network
+- Evidence processing framework
+- Impact validation system
+- Cross-chain environmental data oracle
 
-```shell
-$ forge fmt
-```
+### Allo Capital
+- Liquidity pool management
+- Impact-weighted distribution
+- Performance-based multipliers
+- Conservation funding pools
 
-### Gas Snapshots
+## Key Features
 
-```shell
-$ forge snapshot
-```
+### Impact Verification
+- Decentralized validator network via Allo Nets
+- Evidence-based claims system
+- Multi-stage verification process
+- Stake-weighted consensus
 
-### Anvil
+### Market Infrastructure  
+- Environmental asset AMMs
+- Impact-adjusted bonding curves
+- Deep liquidity pools through Allo Capital
+- Price discovery mechanisms
 
-```shell
-$ anvil
-```
+### Funding Distribution
+- Outcome-based allocation via Allo Protocol
+- Impact-weighted rewards
+- Performance multipliers
+- Automated distribution
 
-### Deploy
+## Protocol Benefits
 
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
+### For Conservationists
+- Access to sustainable funding through Allo Capital
+- Market validation of impact
+- Performance-based rewards
+- Efficient capital allocation
 
-### Cast
+### For Traders
+- Novel environmental assets
+- Impact-linked returns
+- Market-making opportunities
+- Portfolio diversification
 
-```shell
-$ cast <subcommand>
-```
+### For the Environment
+- Sustainable funding mechanisms
+- Outcome verification through Allo Nets
+- Impact quantification
+- Value discovery
 
-### Help
+## Technical Architecture
 
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+### Smart Contracts
+- Environmental Asset Tokens
+- Prediction Market System
+- Allo Protocol Integration
+- Distribution Logic
+
+### Integration Points
+- Allo Nets Oracle Network
+- Conservation Platforms
+- Environmental Markets
+- Data Providers
+
+## Governance
+
+The protocol is governed by:
+- Impact DAO
+- Verification DAO via Allo Nets
+- Distribution DAO
+
+## Roadmap
+
+### Phase 1: Foundation
+- Allo Protocol integration
+- Core contracts deployment
+- Initial market creation
+- Basic verification system
+
+### Phase 2: Expansion
+- Allo Nets implementation
+- Enhanced impact metrics
+- Advanced market mechanics
+- Extended verification network
+
+### Phase 3: Scaling
+- Allo Capital integration
+- Cross-chain deployment
+- Additional asset types
+- Expanded governance
+
+## Resources
+- [Documentation](docs.viridian.xyz)
+- [GitHub](github.com/viridian)
+- [Discord](discord.gg/viridian)
+- [Allo Protocol](docs.allo.gitcoin.co)
+
