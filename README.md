@@ -129,9 +129,3 @@ The protocol is governed by:
 - Additional asset types
 - Expanded governance
 
-## Resources
-- [Documentation](docs.viridian.xyz)
-- [GitHub](github.com/viridian)
-- [Discord](discord.gg/viridian)
-- [Allo Protocol](docs.allo.gitcoin.co)
-
